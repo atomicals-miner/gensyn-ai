@@ -48,7 +48,7 @@ show_banner() {
     echo -e "${BLUE}"
     echo "=========================================="
     echo "       RL Swarm 节点自动安装脚本         "
-    echo "      工作室内部专用____by：ppppp      "
+    echo "      工作室内部专用 by：ppppp      "
     echo "       当前日期: $(date '+%Y-%m-%d')     "
     echo "=========================================="
     echo -e "${NC}"
